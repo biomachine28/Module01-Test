@@ -1,0 +1,21 @@
+body {
+    background-color: greenyellow;
+}
+
+h1 {
+    color: red;
+}
+
+ul {
+    color: beige;
+    background-color: black;
+}
+
+p {
+    color: brown;
+}
+
+a {
+    color: rebeccapurple;
+    text-decoration:none;
+}
